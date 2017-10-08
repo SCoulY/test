@@ -1,0 +1,2 @@
+V	271005115958Z		01	unknown	/C=GB/ST=Leicestershire/L=Loughborough/O=Colin-VPN/OU=MyOrganizationalUnit/CN=server/name=EasyRSA/emailAddress=scouly@outlook.com
+V	271005121439Z		02	unknown	/C=GB/ST=Leicestershire/L=Loughborough/O=Colin-VPN/OU=MyOrganizationalUnit/CN=client/name=EasyRSA/emailAddress=scouly@outlook.com
